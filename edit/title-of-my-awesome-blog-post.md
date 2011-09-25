@@ -1,0 +1,1 @@
+../_posts/2011-09-25-title-of-my-awesome-blog-post.md
